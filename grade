@@ -1,0 +1,11 @@
+a=int(input())
+if(a>=90):
+    print("a grade")
+elif(a>=80):
+    print("b grade")
+elif(a>=70):
+    print("c grade")
+elif(a<=60 and a>=50):
+    print("d grade")
+else:
+    print("fail")
