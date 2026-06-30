@@ -1,0 +1,4 @@
+r=int(input())
+pi=3.14
+a=r*r*pi
+print(a)
